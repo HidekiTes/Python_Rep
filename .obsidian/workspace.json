@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "31ae6294edb3a60c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cc5f083509488a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59a6a5f6c8bcca54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudos_DSA/Cap_1/Cap 1 - Introdução Básica a Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ab8a0794407c651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudos_DSA/Cap_2/Cap 2 - Introdução à Lógica de Programação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc4b101592239e93",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e93eb6e071d5bf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6679c967717ca29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "442fcc34aa39d17e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58011a134f2ce838",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ec8490e1dce9fab",
+    "type": "split",
+    "children": [
+      {
+        "id": "af19b754676776ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48a336757edab84a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estudos_DSA/Cap_2/Cap 2 - Introdução à Lógica de Programação.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76d9240233ab7be2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estudos_DSA/Cap_2/Cap 2 - Introdução à Lógica de Programação.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b821255634aeff2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4bfaf0e9ff08e580",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Estudos_DSA/Cap_2/Cap 2 - Introdução à Lógica de Programação.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9ab8a0794407c651",
+  "lastOpenFiles": [
+    "Estudos_DSA/Cap_2/ex3.py",
+    "ex3.py",
+    "Estudos_DSA/Cap_2/ex2.py",
+    "ex2.py",
+    "Estudos_DSA/Cap_2/ex1.py",
+    "Estudos_DSA/Cap_1/Cap 1 - Introdução Básica a Python.md",
+    "Estudos_DSA/Cap_2/Cap 2 - Introdução à Lógica de Programação.md",
+    "Estudos_DSA/Cap_1/ex3.py",
+    "Estudos_DSA/Cap_1/ex2.py",
+    "Estudos_DSA/Cap_1/ex1.py",
+    "Estudos_DSA/Cap_2"
+  ]
+}
